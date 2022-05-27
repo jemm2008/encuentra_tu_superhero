@@ -1,18 +1,38 @@
+            .formatP {
+                margin: 0px;
+                padding: 0px;
+            }
 
-* {
-    margin: 0px;
-    padding: 0px;
-}
+            .superheroImg {
+            background-color: yellow;
+            border: 2px solid red;
+            border-radius: 20px;
+            }
 
-.gggg {
-    border: 1px solid green;
-}
+            .inputStyle {
+            background-color: rgb(255, 255, 176);
+            border: 2px solid red;
+            }
 
-.rrrr {
-    border: 1px solid red;
-}
+            .textCard {
+                font-weight: 600;
+                font-size: 0.8rem;
+            }
 
-.bbbb {
-    border: 1px solid blue;
-}
+            .rrrr {
+                background-color: red;
+                border: 3px solid yellow;
+            }
 
+            .yyyy {
+                background-color: yellow;
+                border: 2px solid red;
+            }
+
+            .bordeGraph {
+                border: 3px solid red;
+                height: 450px;
+                padding: 20px 35px;
+                margin-bottom: 20px;
+            }
+            
